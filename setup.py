@@ -7,8 +7,8 @@ setup(
     package_data={"sqlalchemy-stubs": ["**/*.pyi"]},
     install_requires=["sqlalchemy==2.0.31"],  # Adjust the version as needed
     zip_safe=False,
-    description="Stubs for SQLAlchemy 2.0' Mapped types",
-    long_description="Type stubs for the MApped types in SQLAlchemy 2.0",
+    description="Stubs for SQLAlchemy 2.0 Mapped types",
+    long_description="Type stubs for the Mapped types in SQLAlchemy 2.0",
     author="Kev",
     author_email="hola@kev.pe",
     url="https://github.com/regularkevvv/sqlalchemy-mapped-stubs",
